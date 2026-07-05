@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+    margin: 0;
+    padding: 20px;
+}
+body{
+    background-image: url('network-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    font-family: Arial, sans-serif;
+    color: white;
+}
+form{
+    background: rgba(0,0,0,0.7);
+    padding: 20px;
+    width: 350px;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
