@@ -54,7 +54,7 @@ Installation Guide
 
 1. Clone the repository
  bash
-git clone https://github.com/Sithembiso00625/wireless-network-performance-analyzer.git
+git clone https://github.com/SithembisO00625/wireless-network-performance-analyzer
 
 Or download the ZIP file.
 
@@ -87,6 +87,7 @@ http://localhost/network-analyzer/login.php
 Default Login Credentials
 
 Username
+
 admin
 
 Password
@@ -105,6 +106,10 @@ Dashboard
 Performance Graph
 
 <img width="1834" height="801" alt="latency graph" src="https://github.com/user-attachments/assets/821bce8a-6b8f-483a-a3e6-54188f262345" />
+
+Historical table measurements
+
+<img width="944" height="628" alt="perform table" src="https://github.com/user-attachments/assets/05c693eb-9756-44b1-8e68-d0e97e957ce0" />
 
 Test Results
 
@@ -141,9 +146,8 @@ Future versions of the system may include:
 Author
 
 Name: Sithembiso Hlophe
-
-Bachelor of Science in Computer Science
-
+Student identification number: 202203678
+Bachelor of Science in Computer Science Education
 CSC 402 Final Year Project
 
 License
