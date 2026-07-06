@@ -146,8 +146,11 @@ Future versions of the system may include:
 Author
 
 Name: Sithembiso Hlophe
+
 Student identification number: 202203678
+
 Bachelor of Science in Computer Science Education
+
 CSC 402 Final Year Project
 
 License
